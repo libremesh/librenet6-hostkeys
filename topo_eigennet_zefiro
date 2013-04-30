@@ -1,5 +1,6 @@
 Address = zefiro-e4.eigenlab.org
 Port = 657
+Subnet = 2a00:1508:1:f010::/64
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEA1CogVrQqod0CcdIE0jnlD1lF6NC4s9YxGZx+5Sh5TIY+7yTxAUFK

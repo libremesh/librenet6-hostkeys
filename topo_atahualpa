@@ -1,4 +1,5 @@
 Address = atahualpa.deestelado.org
+Subnet = 2a00:1508:1:f001::/64
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAw3ScK1I6mc5gdR+4Xjd/4iuoFjzqqmCBPajJNwCkTQ0MwZFkETlK
