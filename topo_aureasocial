@@ -1,0 +1,12 @@
+Address = pbx.aureasocial.org
+Port = 657
+Subnet = 2a00:1508:1:f017::/64
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA4jEnokQbieegamkASYs9X/W8vjAd/s5LUCQPL63QEWzkaSVybyjn
+OGOLdyfpOv54TQIbfXLAtAsE5L4whPtrl8Kqlow/J+1Xy/q13BiTGjTDmexyO4r7
+rhoO66Sl7m6d2q+kWGk3+B97231QWHaMI+QAj/sTeIIa4u8R21JDLcg6n0zAwR98
+IFLyxXn8llciwt1XObphIoZt+nkefaFYeW0qnJcrqUAaEk2cWnPfuGfRuJQX/1ha
+U5NiX/8Ak/jlByqIqCtfcnG7YoCPoYpl+1JBlpN1gLX10M8+b6td4UaK+YYe62iG
+Efjev0UNQaaaInPMJPi4HNXiuloD3xUgpwIDAQAB
+-----END RSA PUBLIC KEY-----
