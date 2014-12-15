@@ -1,0 +1,11 @@
+Address = phoenix-e4.eigenlab.org
+Subnet = 2a00:1508:1:f010::/64
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEApwq+w6VYUacAJ2wFJbEUup2iGBsWJO7woNQbQRAi5RT77W41aKMc
+9otyyYVsAMV29fxAX+PTFTHZXXLq0DG/yVEIrr8msWdmXH4tIS/y22d8hHSDXXIb
+DNXqaBGs935LDGN/lamUsku6zgufp1VSMHC6/tzgUH51F6/83XtZ5CJnbX1mAebC
+bmUXpQFoneUajjDrQayZjwSsiblNVxYdsMezKK/3T6klk/DKvWbiWVal++1Rh5st
+S7QRhyAk4ZXiuHa+kaQjO+0cSr4AOwYZ/a5QjzMaJVo/EximSZZtx7AuxoCqLqey
+aHXAhbZmguBIx+yfFsNuEU36MEVJ0jD03QIDAQAB
+-----END RSA PUBLIC KEY-----
