@@ -1,0 +1,13 @@
+Address = vpnd.leipzig.freifunk.net
+Port = 656
+#Subnet = /56?
+#freifunk: 10.59.16.1
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAtYTmovnwjHgYkS74/qyoHHggn2glX01+xipOVmVrjFHQnGofXfIZ
+JOKTEchBfmyCU17ZTY9t7gnWIsAJkdvXy6crR7UnmyE5y5uPVKRn9DiI19WKYca/
+Bw8lZ2fl4b7OVxYw1yrqx2eZBhpiWbVYS1f6zlVnAR+xj5lfzf3xkUH2oYK/qCNr
+utXM/OYJOfax+nlHrmI/eRFaXqQ1+ReIIjakqnbmy3tEyyjY3lLYwMc66OJRx984
+SvJGZuaueR2D2mT8dJNPgVW4qW7lSwVsrXWSRKwmJAp/3eKQjvBVeyaI69XrRcvb
+VaDZRASsGRnI1T4Va90QW2VL7V2IAyObTwIDAQAB
+-----END RSA PUBLIC KEY-----

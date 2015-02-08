@@ -1,0 +1,13 @@
+Address = vpn8.leipzig.freifunk.net
+Port = 656
+#Subnet = /56?
+#freifunk: 10.61.228.1
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAqq7Y/jiomza3hLmG62PO5EcEPrS6tClSauH+qxn4rLmRDU5MoB3p
+8BZOZV/dTyExZRu7yov9RMRR7cDS8wa6e5h4UeszjPObMkJar8KHsrxa7XxAer70
+sGgtsb7DA8t7weO26b9aS8y8PccWQHPH7afgwNoOGbVQha1mhELCU6FgZwI6MLNU
+IWyTBoE+X6FlzSXhPunFC+rM8uEfHp3BifSH6jkaXPgC0IZVyjEB5SAdoifTe9B+
+Q6jY1CSM3xyCguq6f7eM4PIeDUNxALzwazY9vzY+wIJ/SMt8HA/Tl+0Tcyck0tvY
+At1YimC3FvpbaFBorUiTskYF/Bua3uhwNwIDAQAB
+-----END RSA PUBLIC KEY-----
