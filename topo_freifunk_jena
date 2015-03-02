@@ -1,0 +1,12 @@
+Address = ic1.vpn.jena.freifunk.net
+Port = 6556
+#Subnet = /56?
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEAyN9s32tf5MsLUoXxoOJGgXWs45UhawbGg/2WpO8hM6zkb8ILrsd2
+d4soGoMvdwlAxd+8bk3VX9mLUaJTqgqdNMrM0NcVwGPzuXT02r/BeF1Awqu27roh
+UpOpiJjfEsizjn0D44mW3/wTLljf+7cpQdCaLHEmEBURLbDNiV0c0mP0wPBqVRnO
+lIfZrY+a52vF7lUBV5beFRYqFoqxmzLSg1sWbIniMdDgWSoMPsAUdATLMTaJZxJ3
+gNtFDpfvBBaW8KXNpRmkO93A60vrY+F0JI8dhIw7dWuX85OGOVccB3Zzoxjxwlhq
+C8zmjN0rKz+n7oO9I8GTTCIFOtuLkR56IQIDAQAB
+-----END RSA PUBLIC KEY-----

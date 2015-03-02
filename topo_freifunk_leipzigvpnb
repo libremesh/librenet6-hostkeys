@@ -1,0 +1,13 @@
+Address = vpnb.leipzig.freifunk.net
+Port = 656
+#Subnet = /56?
+#freifunk: 10.59.32.1
+
+-----BEGIN RSA PUBLIC KEY-----
+MIIBCgKCAQEA0Q5goYPd/S190XgIX5NJo1TuGS+bQfzLFfXE40vhmH6fHoALQMyH
+GdJK0aIW00fuQhxDIlFLZV54F8kGnxCl6XDUfnCqYhQCsE0lDarjBJgNBhUQNu//
+xhLZkhvkSe+rMwmXbIuncUNYAm7SMEGQCM2X3SOpJraDuybEGNvRBfn5QnmuO4k/
+kmpMMoau3E04WsVT4fzJ7TvznUYpbQLuQKXheOtsAoYxj/S6AGsI727gJc94J4P4
+4OB362ELZZ1RTEoR3UgKlbcTi9gD7tFzG8b+qtazsDQOdG63f6fzuR71HxQq/7y9
+grRSSVmfzlBzuINIIHAwwbX6hJxMih4tBwIDAQAB
+-----END RSA PUBLIC KEY-----
