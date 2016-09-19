@@ -1,4 +1,6 @@
 Address = movistar.dyn.aureasocial.org
+Port = 80
+Port = 655
 
 -----BEGIN RSA PUBLIC KEY-----
 MIICCgKCAgEAnaecp9+9YnUQhbJulEyd4RuCwAEkosrcUDY65whDlmL1pYzFDzYa
